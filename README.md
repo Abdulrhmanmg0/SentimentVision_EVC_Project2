@@ -9,7 +9,7 @@ This repository contains two models, a machine learning Logistic regression mode
 - **Model Name:** Logistic Regression
 - **Purpose:** Sentiment Analysis
 - **Details:** The model analysis the text and classify them into Happy or Sad...
-- **Special Thanks To**   [@Daniamhz](https://github.com/Daniamhz)
+- **Special Thanks To**   [@Daniamhz](https://github.com/Daniamhz) and [@Janaalharbii](https://github.com/Janaalharbii)
 
   
 ### Deep Learning Model
