@@ -1,4 +1,4 @@
-# Project Title
+# Sentiment Vision
 
 This repository contains two models, a machine learning Logistic regression model for text sentiment analysis and a deep learning model for facial emotion recognition, the project aims to enhance airport security by developing a suspects detection system. Utilizing technologies in computer vision and NLP. You can explore the models on our [Hugging Face hosting site](https://huggingface.co/spaces/Abdulrhmanmg0/StreamEVC).
 
